@@ -5,6 +5,14 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=30&pause=1000&color=000000&width=435&lines=Hi+there+%F0%9F%91%8B!+My+name+is+hyun+!;Welcome+to+my+repository+!%F0%9F%8E%80)](https://git.io/typing-svg)
 
 
+
+
+
+<img align="left" height="200" src="https://file3.instiz.net/data/file3/2021/05/06/7/c/8/7c884b6e7580dbef56b86c796b549922.gif"  />
+
+
+
+
 # Stacks 🧨
 
 
