@@ -2,6 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=30&pause=1000&color=000000&width=435&lines=Hi+there+%F0%9F%91%8B!+My+name+is+hyun+!;Welcome+to+my+repository+!%F0%9F%8E%80)](https://git.io/typing-svg)
 
+![](https://item.kakaocdn.net/do/1c05dd5fac27fd8c5fe6f2c1708b88aff43ad912ad8dd55b04db6a64cddaf76d)
+
 # FE Stacks 🧨
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
