@@ -1,18 +1,11 @@
-## Hi there 👋
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flkhyun-0%2Fhit-counter&count_bg=%23BDC0BA&title_bg=%23EA0A11&icon=&icon_color=%23DE211E&title=hits+%21&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<h2 align="center">Hi there 👋! My name is hyun ! <br>Welcome to my repository !🎀</h2>
 
-###
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=30&pause=1000&color=000000&width=435&lines=Hi+there+%F0%9F%91%8B!+My+name+is+hyun+!;Welcome+to+my+repository+!%F0%9F%8E%80)](https://git.io/typing-svg)
 
-<img align="left" height="200" src="https://file3.instiz.net/data/file3/2021/05/06/7/c/8/7c884b6e7580dbef56b86c796b549922.gif"  />
 
-###
-
-###
-
-#Stacks 🧨
+# Stacks 🧨
 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -51,9 +44,9 @@
 
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lkhyun-0&show_icons=true&theme=radical)
 
-
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lkhyun-0&layout=compact)
 
 
 
