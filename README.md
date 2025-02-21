@@ -1,6 +1,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flkhyun-0%2Fhit-counter&count_bg=%23BDC0BA&title_bg=%23EA0A11&icon=&icon_color=%23DE211E&title=hits+%21&edge_flat=false)](https://hits.seeyoufarm.com)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=30&pause=1000&color=000000&width=435&lines=Hi+there+%F0%9F%91%8B!+My+name+is+hyun+!;Welcome+to+my+repository+!%F0%9F%8E%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=30&pause=1000&color=ffffff&width=435&lines=Hi+there+%F0%9F%91%8B!+My+name+is+hyun+!;Welcome+to+my+repository+!%F0%9F%8E%80)](https://git.io/typing-svg)
 
 ![](https://www.goodgag.net/_data/up/1603/430956e0189f0d7951273509.gif)
 ![](https://velog.velcdn.com/images/twolove-sarang/post/e6c555b0-064d-49db-9383-373f8873696e/image.gif)
